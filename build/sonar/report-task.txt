@@ -1,0 +1,12 @@
+sonar-project.properties
+sonar.host.url=http://35.211.211.130:9000/about
+sonar.login=admin
+sonar.password=admin
+sonar.projectKey=JavaKeys
+sonar.projectName=Java
+sonar.projectVersion=1.0
+sonar.language=java
+sonar.sources=app/src/main/java
+sonar.tests=app/src/test/java
+sonar.sourceEncoding = UTF-8
+sonar.analysis.mode=
